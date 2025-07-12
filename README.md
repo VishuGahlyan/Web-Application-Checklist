@@ -7,7 +7,6 @@
 
 **500+ Test Cases 🚀🚀**
 
-Notion link: https://hariprasaanth.notion.site/WEB-APPLICATION-PENTESTING-CHECKLIST-0f02d8074b9d4af7b12b8da2d46ac998
 </br></br>
 
 - **INFORMATION GATHERING**
