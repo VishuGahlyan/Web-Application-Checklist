@@ -674,6 +674,6 @@
     - [ ]  Try to bypass OTP by status code manipulation
     
 
-### Shaped by: Hariprasaanth R
+### Shaped by: Vishu Gahlyan
 
-**Reach Me: [LinkedIn](https://www.linkedin.com/in/hariprasaanth) [Portfolio](https://hariprasaanth.blogspot.com/) [Github](https://github.com/Hari-prasaanth)**
+**Reach Me: [LinkedIn](https://) [Portfolio](https://) [Github](https://)**
